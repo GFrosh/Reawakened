@@ -1,8 +1,10 @@
 body {
-background-color: navyblue;
+background-color: darkviolet;
 color: yellow;
 }
-
+button {
+border-radius: 2px;
+}
 
     
       
