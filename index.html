@@ -22,7 +22,7 @@
 
           <form>
           <h3>Let's do this!</h3>
-          <placeholder>
+          <fieldset>
           <legend>
             FIRST NAME
           <legend/>
@@ -30,16 +30,19 @@
                 type="text"
                 id="firstname"
                 value="Thor">
-          </placeholder>
+          </fieldset>
           <br>
                   
-           <label for="lastname">LAST NAME</label>
-                  <input
-                    type="text"
-                    id="lastname"
-                    value="Odinson"
-                    required
-/>
+           <fieldset>
+           <label for="lastname">
+           <legend>LAST NAME</legend>
+           </label>
+           <input
+                type="text"
+                id="lastname"
+                value="Odinson"
+                required/>
+           </fieldset>
                  
             <button type="submit" onclick="alert('Gideon is simply the best')">
               Create Account
