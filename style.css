@@ -1,9 +1,10 @@
 body {
-background-color: violet;
+background-color: darkviolet;
 color: yellow;
 }
 button {
-border-radius: 2px;
+border-radius: 3px;
+color: teal;
 }
 
     
