@@ -7,10 +7,12 @@ border-radius: 3px;
 color: teal;
 }
 input {
-align-self: center;
-width: 70%;
+justify-self: center;
+width: 100%;
 }
-
+fieldset {
+margin-top: 10px;
+}
     
       
       
