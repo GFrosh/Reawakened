@@ -6,6 +6,10 @@ button {
 border-radius: 3px;
 color: teal;
 }
+input {
+align-self: center;
+width: 70%;
+}
 
     
       
