@@ -5,9 +5,10 @@ color: yellow;
 button {
 border-radius: 3px;
 color: teal;
-align-self: center;
+justify-self: center;
 height: 40px;
-width: 100px;
+width: 200px;
+margin: 15px;
 }
 input {
 justify-self: center;
