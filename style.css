@@ -5,6 +5,8 @@ color: yellow;
 button {
 border-radius: 3px;
 color: teal;
+align-self: center;
+height: 10px;
 }
 input {
 justify-self: center;
@@ -13,7 +15,6 @@ width: 100%;
 fieldset {
 margin-top: 10px;
 }
-    
       
       
       
