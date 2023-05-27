@@ -6,7 +6,8 @@ button {
 border-radius: 3px;
 color: teal;
 align-self: center;
-height: 10px;
+height: 40px;
+width: 20%;
 }
 input {
 justify-self: center;
