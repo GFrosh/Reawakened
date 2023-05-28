@@ -1,6 +1,7 @@
 body {
-background-color: navyblue;
+background-color: darkviolet;
 color: yellow;
+font-style: Times New Roman
 }
 button {
 border-radius: 3px;
@@ -14,6 +15,9 @@ margin-top: 10px;
 input {
 justify-self: center;
 width: 100%;
+color: teal;
+font-style: Segoe Print;
+font- color: cyan;
 }
 fieldset {
 margin-top: 10px;
