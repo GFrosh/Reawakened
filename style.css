@@ -1,7 +1,7 @@
 body {
 background-color: darkviolet;
 color: yellow;
-font-style: Times New Roman
+font-family: Times New Roman
 }
 button {
 border-radius: 3px;
@@ -16,7 +16,7 @@ input {
 justify-self: center;
 width: 100%;
 color: teal;
-font-style: Segoe Print;
+font-family: Segoe Print;
 font- color: cyan;
 }
 fieldset {
