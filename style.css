@@ -1,7 +1,7 @@
 body {
 background-color: aquamarine;
 color: plum;
-font-family: Arial;
+font-family: sans-serif;
 }
 button {
 border: 3px solid darkgrey;
@@ -23,7 +23,7 @@ font- color: cyan;
 }
 fieldset {
 margin-top: 10px;
-font-family: Papyrus;
+font-family: Arial;
 }
       
       
