@@ -31,6 +31,9 @@ text-align: center;
 .logo {
 display: block;
 }
-img {
+.imglogo {
 z-index: -1;
+}
+.textlogo {
+z-index: 0;
 }
