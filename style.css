@@ -31,3 +31,6 @@ text-align: center;
 .logo {
 display: block;
 }
+img {
+z-index: -1;
+}
